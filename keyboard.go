@@ -1,3 +1,4 @@
+// keyboard read from stdin
 package keyboard
 
 import (
